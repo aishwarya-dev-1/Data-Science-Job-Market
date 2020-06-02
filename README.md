@@ -1,7 +1,7 @@
 
 # To predict Data Science job market in the U.S
 
-We are creating a workbook which will provide market insights to the job scenario in the U.S. for Data Scientists. This shall benefit -
+A workbook is created to provide market insights to the job scenario in the U.S. for Data Scientists. This shall benefit :-
 
 1.Employee – Provides an opportunity to the current employees to upskill their skill set
 
